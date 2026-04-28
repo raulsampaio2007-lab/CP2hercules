@@ -19,15 +19,18 @@ Desenvolvemos este chatbot para atuar como um assistente de primeira linha, capa
 ---
 
 ## 4. Dataset
-O dataset foi desenvolvido em Python e integrado ao modelo através de uma estrutura de mensagens (*few-shot*), garantindo que o bot aprenda com exemplos práticos antes de interagir com o usuário.
+ O data set foi construído com base em 21 exemplos de perguntas e respostas para treinar o chatbot para responder perguntas sobre musculação, os dados foram rotulados e categorizados em 5 domínios principais: Suporte Técnico, Metodologia, Treino de Inferiores, Treino de Superiores e Progressão de Carga.
+
 
 * **Construção:** Os dados foram organizados em uma lista de dicionários com pares de `pergunta` e `resposta`.
 * **Categorias incluídas:**
-    * Dúvidas e Suporte Técnico (Ex: conexão mente-músculo e dores no treino).
-    * Conceitos e Metodologia (Ex: divisões de treino para iniciantes).
-    * Fichas de Treino (Ex: rotinas de membros inferiores e superiores).
-    * Progressão de Carga (Ex: técnicas para evoluir na barra fixa).
-* **Quantidade:** O modelo utiliza **12 exemplos de alta qualidade** para manter a precisão das orientações.
+ Dúvidas e Suporte Técnico: 4 exemplos
+Conceitos e Metodologia: 2 exemplos
+Fichas de Treino (Inferiores): 4 exemplos
+Fichas e Dúvidas (Superiores): 6 exemplos
+Progressão em Multiarticulados: 5 exemplos
+
+* **Quantidade:** O modelo utiliza **21 exemplos de alta qualidade** para manter a precisão das orientações.
 
 ## 5. System Prompt
 O **System Prompt** atua como a diretriz mestra de comportamento do assistente, configurado no `Modelfile` do Ollama.
@@ -49,5 +52,7 @@ O **System Prompt** atua como a diretriz mestra de comportamento do assistente, 
 
 ## 7. Aprendizados
 * **Integrante 1:*Kevin Rodrigues de melo* (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
-* **Integrante 2:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
+  
+* **Integrante 2:Pedro Sampaio Mochnacs Arruda Aprendi como um chatbot pode ser treinado através de exemplos e como o chatbot aprende e entende padrões
+  
 * **Integrante 3:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
