@@ -32,6 +32,6 @@ Desenvolvemos este chatbot para atuar como um assistente de primeira linha, capa
 | Exemplo de pergunta | Resposta padrão... | Resposta com sua personalidade... |
 
 ## 7. Aprendizados
-* **Integrante 1:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
+* **Integrante 1:*Kevin Rodrigues de melo* (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
 * **Integrante 2:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
 * **Integrante 3:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
