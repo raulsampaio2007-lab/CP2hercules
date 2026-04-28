@@ -60,6 +60,6 @@ Diferencial: O FitBot prioriza a interrupção imediata (segurança) e dá uma i
 ## 7. Aprendizados
 * **Integrante 1:*Kevin Rodrigues de melo* (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
   
-* **Integrante 2:Pedro Sampaio Mochnacs Arruda Aprendi como um chatbot pode ser treinado através de exemplos e como o chatbot aprende e entende padrões
+* **Integrante 2:Pedro Sampaio Mochnacs Arruda: Aprendi como um chatbot pode ser treinado através de exemplos e como o chatbot aprende e entende padrões
   
-* **Integrante 3:** (Escreva aqui um parágrafo sobre o que você aprendeu tecnicamente ou em grupo durante o desenvolvimento).
+* **Integrante 3:Raul Sampaio Mochnacs Arruda: Aprendi como Modelos de chatbot  treinados funcionam melhor para objetivos específicos, como mostrado no projeto a diferença de respostas sobre musculação
