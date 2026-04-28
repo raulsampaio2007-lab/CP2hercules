@@ -44,11 +44,18 @@ O **System Prompt** atua como a diretriz mestra de comportamento do assistente, 
     * `num_predict 300`: Definido para manter as respostas diretas e evitar fugas do tema.
 
 ## 6. Comparação Base vs. Customizado
-*(Utilize este espaço para colocar uma tabela ou imagens comparando a resposta da IA padrão com a resposta da sua IA personalizada.)*
+6. Comparação Base vs. Customizado
+Abaixo, detalhamos as diferenças de comportamento entre o modelo genérico (Llama 3.2:1b) e a versão personalizada (FitBot), demonstrando a eficácia da engenharia de prompt aplicada.
 
-| Pergunta do Usuário | Resposta Modelo Base | Resposta Modelo Customizado |
-| :--- | :--- | :--- |
-| Exemplo de pergunta | Resposta padrão... | Resposta com sua personalidade... |
+Exemplo 1: Segurança e Lesão
+Pergunta do Usuário: "Senti uma dor estranha no ombro durante o supino."
+
+Resposta Modelo Base: "A dor no ombro durante exercícios de peito pode ser causada por má postura ou excesso de peso. Tente reduzir a carga ou procure um profissional se a dor não passar."
+
+Resposta Modelo Customizado (FitBot): "Atenção aqui! ⚠️ Pare o exercício imediatamente. Verifique se seus ombros estão encaixados (retratados) no banco. Se a dor persistir, descanse a articulação hoje. Segurança em primeiro lugar! 🛡️"
+
+Diferencial: O FitBot prioriza a interrupção imediata (segurança) e dá uma instrução técnica específica (retratação escapular).
+
 
 ## 7. Aprendizados
 * **Integrante 1:*Kevin Rodrigues de melo* (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
