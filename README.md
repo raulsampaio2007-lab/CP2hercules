@@ -19,7 +19,7 @@ Desenvolvemos este chatbot para atuar como um assistente de primeira linha, capa
 ---
 
 ## 4. Dataset
- O data set foi construído com base em 21 exemplos de perguntas e respostas para treinar o chatbot para responder perguntas sobre musculação, os dados foram rotulados e categorizados em 5 domínios principais: Suporte Técnico, Metodologia, Treino de Inferiores, Treino de Superiores e Progressão de Carga.
+ O data set foi construído com base em 12 exemplos de perguntas e respostas para treinar o chatbot para responder perguntas sobre musculação, os dados foram rotulados e categorizados em 5 domínios principais: Suporte Técnico, Metodologia, Treino de Inferiores, Treino de Superiores e Progressão de Carga.
 
 
 * **Construção:** Os dados foram organizados em uma lista de dicionários com pares de `pergunta` e `resposta`.
