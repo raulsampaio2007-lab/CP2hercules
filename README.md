@@ -19,10 +19,26 @@ Desenvolvemos este chatbot para atuar como um assistente de primeira linha, capa
 ---
 
 ## 4. Dataset
-*(Descreva aqui como o dataset foi construído, por exemplo: "Base de dados criada manualmente com 50 exemplos de interações treino/descanso", e informe a quantidade de exemplos utilizados.)*
+O dataset foi desenvolvido em Python e integrado ao modelo através de uma estrutura de mensagens (*few-shot*), garantindo que o bot aprenda com exemplos práticos antes de interagir com o usuário.
+
+* **Construção:** Os dados foram organizados em uma lista de dicionários com pares de `pergunta` e `resposta`.
+* **Categorias incluídas:**
+    * Dúvidas e Suporte Técnico (Ex: conexão mente-músculo e dores no treino).
+    * Conceitos e Metodologia (Ex: divisões de treino para iniciantes).
+    * Fichas de Treino (Ex: rotinas de membros inferiores e superiores).
+    * Progressão de Carga (Ex: técnicas para evoluir na barra fixa).
+* **Quantidade:** O modelo utiliza **12 exemplos de alta qualidade** para manter a precisão das orientações.
 
 ## 5. System Prompt
-*(Insira aqui o prompt utilizado no sistema e a explicação das decisões tomadas, como o tom de voz do bot e as regras de segurança para evitar exercícios perigosos.)*
+O **System Prompt** atua como a diretriz mestra de comportamento do assistente, configurado no `Modelfile` do Ollama.
+
+* **Decisões de Design:**
+    * **Identidade:** O bot foi instruído a ser um assistente amigável, empático e objetivo.
+    * **Linguagem:** Uso obrigatório de português brasileiro e emojis relevantes para humanizar o atendimento.
+    * **Segurança:** Regras estritas para nunca prometer resultados impossíveis e sempre orientar o suporte humano em caso de dúvidas críticas.
+* **Parâmetros de Geração:**
+    * `temperature 0.7`: Ajustada para permitir respostas naturais sem perder o rigor técnico.
+    * `num_predict 300`: Definido para manter as respostas diretas e evitar fugas do tema.
 
 ## 6. Comparação Base vs. Customizado
 *(Utilize este espaço para colocar uma tabela ou imagens comparando a resposta da IA padrão com a resposta da sua IA personalizada.)*
