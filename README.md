@@ -1,14 +1,14 @@
-# CP2hercules# Projeto: Personal Trainer Virtual - Consultoria Inteligente 🏋️‍♂️
+# CP2 Prof. Hercules - Projeto: Personal Trainer Virtual - Consultoria Inteligente
 
 ## 1. Nome do Projeto e Domínio
 **Nome do Projeto:** FitBot AI – Seu Personal Trainer 24h.
 **Domínio:** Saúde, Bem-estar e Tecnologia. O projeto foca na aplicação de Inteligência Artificial Generativa para democratizar o acesso a orientações de exercícios físicos e rotinas de treino personalizadas via chatbot.
 
 ## 2. Integrantes
-* **Kevin Rodrigues de melo** — RM: 571777
+* **Kevin Rodrigues de Melo** — RM: 571777
 * **Luan de Araujo Carneiro** — RM: 573691
-* **Raul sampaio Mochnacs Arruda** — RM: 573523
-* **Pedro sampaio Mochnacs Arruda** — RM: 573522
+* **Raul Sampaio Mochnacs Arruda** — RM: 573523
+* **Pedro Sampaio Mochnacs Arruda** — RM: 573522
 * **Lucas Garcia de Britto** — RM: 571768
 
 ## 3. Justificativa
@@ -58,8 +58,10 @@ Diferencial: O FitBot prioriza a interrupção imediata (segurança) e dá uma i
 
 
 ## 7. Aprendizados
-* **Integrante 1:*Kevin Rodrigues de melo* (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
+* Integrante 1 *Kevin Rodrigues de melo*: (Fiquei responsável pela estruturação da documentação e interface do projeto. Aprendi que a clareza em um arquivo README é vital para a reprodutibilidade do software, utilizando a linguagem Markdown para organizar hierarquicamente as informações técnicas, justificativas e guias de preenchimento. Compreendi como traduzir processos complexos (como a configuração de modelos de IA) em uma comunicação acessível para usuários e outros desenvolvedores que visualizarem o repositório no GitHub.).
   
-* **Integrante 2:Pedro Sampaio Mochnacs Arruda: Aprendi como um chatbot pode ser treinado através de exemplos e como o chatbot aprende e entende padrões
+* Integrante 2 *Pedro Sampaio Mochnacs Arruda*: Aprendi como um chatbot pode ser treinado através de exemplos e como o chatbot aprende e entende padrões
   
-* **Integrante 3:Raul Sampaio Mochnacs Arruda: Aprendi como Modelos de chatbot  treinados funcionam melhor para objetivos específicos, como mostrado no projeto a diferença de respostas sobre musculação
+* Integrante 3 *Raul Sampaio Mochnacs Arruda*: Aprendi como Modelos de chatbot  treinados funcionam melhor para objetivos específicos, como mostrado no projeto a diferença de respostas sobre musculação
+  
+* Integrante 4 *Luan de Araujo Carneiro*: Consegui desenvolver mais com o aprendizado e o que a IA pode fazer e principalmente a configuração e a importancia do banco de dados e as valiosidade das informações dadas para melhor compreenssão da IA.
