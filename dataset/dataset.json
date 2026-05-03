@@ -1,0 +1,59 @@
+dataset = [
+    # --- CATEGORIA: DÚVIDAS E SUPORTE TÉCNICO ---
+    {
+        "pergunta": "Não estou sentindo o músculo trabalhar nesse exercício, o que faço?",
+        "resposta": "Foco na conexão mente-músculo! 🧠 Tente reduzir a carga em 20% e foque em uma execução mais lenta, segurando 2 segundos na contração máxima. A técnica sempre vem antes do peso! 💪"
+    },
+    {
+        "pergunta": "Senti uma dor estranha no ombro durante o supino.",
+        "resposta": "Atenção aqui! ⚠️ Pare o exercício imediatamente. Verifique se seus ombros estão encaixados (retratados) no banco. Se a dor persistir, descanse a articulação hoje. Segurança em primeiro lugar! 🛡️"
+    },
+    {
+        "pergunta": "Qual a melhor hora para eu tomar meu Whey?",
+        "resposta": "O Whey é um facilitador! 🥤 O mais comum é no pós-treino pela praticidade, mas o que importa é bater sua meta de proteínas do dia. Pode usar no café da manhã ou em um lanche prático. O segredo é a constância! 🍗"
+    },
+    {
+        "pergunta": "Não treinei ontem, devo dobrar o treino hoje?",
+        "resposta": "Nada de desespero! ✋ Não tente compensar dobrando o volume, isso aumenta o risco de lesão. Apenas retome o cronograma de onde parou e mantenha o foco na dieta hoje. Um dia não estraga meses de progresso! 🚀"
+    },
+
+    # --- CATEGORIA: CONCEITOS E METODOLOGIA ---
+    {
+        "pergunta": "Sou iniciante, qual a melhor divisão de treino para começar?",
+        "resposta": "Bem-vindo ao time! 🚀 Para começar, o ideal é o modelo **Full Body** (corpo todo) 3x por semana. Isso permite que seu corpo se adapte aos movimentos sem sobrecarregar um único músculo. Vamos focar na base! 🏛️"
+    },
+    {
+        "pergunta": "Quanto tempo de descanso devo dar entre as séries?",
+        "resposta": "Depende do objetivo! ⏱️ Para hipertrofia básica, entre **60 a 90 segundos** é o ideal para recuperar o fôlego sem perder o ritmo. Respeite o descanso para manter a intensidade! 😴"
+    },
+
+    # --- CATEGORIA: FICHAS DE TREINO (INFERIORES) ---
+    {
+        "pergunta": "Pode montar um treino de inferiores com foco em quadríceps?",
+        "resposta": "Com certeza! Vamos focar na parte frontal das coxas. 🔥\n\n1️⃣ **Agachamento Livre:** 4x10\n2️⃣ **Leg Press 45°:** 3x12 (Pés baixos na plataforma)\n3️⃣ **Cadeira Extensora:** 4x15 (Pico de contração de 2s)\n4️⃣ **Afundo com Halteres:** 3x10 (Cada perna)\n\nDescanse 60s entre as séries. Bom treino! 💪"
+    },
+    {
+        "pergunta": "Quero um treino básico de glúteo e posterior.",
+        "resposta": "Preparado(a) para o pump? 🍑 Aqui está uma rotina matadora:\n\n1️⃣ **Stiff com Barra/Halter:** 4x12\n2️⃣ **Elevação Pélvica:** 4x10 (Segure 3s no topo)\n3️⃣ **Cadeira Flexora:** 3x15\n4️⃣ **Cadeira Abdutora:** 3x20\n\nFoco na execução, nada de pressa! ⚡"
+    },
+
+    # --- CATEGORIA: FICHAS E DÚVIDAS (SUPERIORES) ---
+    {
+        "pergunta": "Não estou sentindo muito meu peito na hora do supino, como posso resolver isso?",
+        "resposta": "Isso é comum! 🏛️ Primeiro, verifique a 'retratação escapular': junte as escápulas atrás e estufe o peito. Imagine que você quer 'entortar' a barra para fora. Isso isola mais o peitoral e tira a sobrecarga excessiva dos ombros e tríceps! 🔥"
+    },
+    {
+        "pergunta": "Pode montar um treino de costas com foco em largura (V-Taper)?",
+        "resposta": "Vamos expandir essa dorsal! 🦅\n\n1️⃣ **Puxada Aberta no Pulley:** 4x12\n2️⃣ **Remada Curvada com Barra:** 3x10 (Pegada supinada)\n3️⃣ **Pull-Down com Corda:** 3x15 (Foco em alongar bem)\n4️⃣ **Remada Baixa Triângulo:** 4x10\n\nSinta as escápulas se movimentarem, não puxe apenas com o bíceps! 👐"
+    },
+
+    # --- CATEGORIA: PROGRESSÃO EM MULTIARTICULADOS ---
+    {
+        "pergunta": "Não consigo fazer nem uma repetição de Barra Fixa (Pull-up), o que eu faço?",
+        "resposta": "Ninguém começa do topo! 🪜 Para construir força, use estas progressões:\n\n1️⃣ **Puxada no Pulley:** Com carga alta para fortalecer a musculatura.\n2️⃣ **Barra Fixa Negativa:** Pule para o topo e desça o mais devagar que conseguir.\n3️⃣ **Barra com Elástico (Band):** Ajuda a vencer o peso inicial.\n\nPersista! A força de puxada é construída com consistência. 🦾"
+    },
+    {
+        "pergunta": "Tenho medo de fazer Levantamento Terra e machucar a coluna.",
+        "resposta": "O medo vem da falta de técnica! 🛡️ Comece com o **Levantamento Terra com Halteres** ou o **Terra Sumô** (pés mais afastados), que mantém o peso mais próximo do seu centro de gravidade. Foque em 'empurrar o chão' com os pés em vez de 'puxar a barra' com as costas. Mantenha o abdômen sempre blindado! 🧱"
+    }
+]
