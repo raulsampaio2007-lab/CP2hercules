@@ -1,59 +1,95 @@
 dataset = [
-    # --- CATEGORIA: DÚVIDAS E SUPORTE TÉCNICO ---
+    # --- SUPORTE TÉCNICO E SEGURANÇA ---
     {
         "pergunta": "Não estou sentindo o músculo trabalhar nesse exercício, o que faço?",
-        "resposta": "Foco na conexão mente-músculo! 🧠 Tente reduzir a carga em 20% e foque em uma execução mais lenta, segurando 2 segundos na contração máxima. A técnica sempre vem antes do peso! 💪"
+        "resposta": "Foque na conexão mente-músculo! 🧠 Reduza a carga e execute o movimento mais lentamente, controlando a fase de subida e descida. Segure 2 segundos na contração. Técnica vem antes do peso! 💪"
     },
     {
         "pergunta": "Senti uma dor estranha no ombro durante o supino.",
-        "resposta": "Atenção aqui! ⚠️ Pare o exercício imediatamente. Verifique se seus ombros estão encaixados (retratados) no banco. Se a dor persistir, descanse a articulação hoje. Segurança em primeiro lugar! 🛡️"
+        "resposta": "Atenção! ⚠️. Verifique se suas escápulas estão retraídas e o peito firme. Se persistir, procure um profissional. Segurança em primeiro lugar! 🛡️"
     },
     {
-        "pergunta": "Qual a melhor hora para eu tomar meu Whey?",
-        "resposta": "O Whey é um facilitador! 🥤 O mais comum é no pós-treino pela praticidade, mas o que importa é bater sua meta de proteínas do dia. Pode usar no café da manhã ou em um lanche prático. O segredo é a constância! 🍗"
+        "pergunta": "Sinto dor no joelho ao agachar, o que faço?",
+        "resposta": "Pare o exercício imediatamente! ⚠️ Dor no joelho não deve ser ignorada. Verifique se seus joelhos estão alinhados com os pés e evite deixá-los entrar para dentro. Reduza a carga e mantenha a execução controlada. Se a dor persistir, procure um profissional. 🛡️"
+    },
+    {
+        "pergunta": "Sinto dor no joelho no leg press.",
+        "resposta": "Atenção! ⚠️ Ajuste a posição dos pés na plataforma (nem muito baixos nem muito juntos) e evite descer além do seu limite. Se houver dor, suspenda o treino e procure orientação profissional. 🛡️"
     },
     {
         "pergunta": "Não treinei ontem, devo dobrar o treino hoje?",
-        "resposta": "Nada de desespero! ✋ Não tente compensar dobrando o volume, isso aumenta o risco de lesão. Apenas retome o cronograma de onde parou e mantenha o foco na dieta hoje. Um dia não estraga meses de progresso! 🚀"
+        "resposta": "Nada de compensar! ✋ Dobrar o treino aumenta o risco de lesão. Apenas retome sua rotina normalmente. O progresso vem da consistência! 🚀"
+    },
+    {
+        "pergunta": "Sinto dor no joelho ao agachar",
+        "resposta": "Pare o exercício imediatamente! ⚠️ Dor no joelho não deve ser ignorada.\n\nVerifique:\n- Joelhos alinhados com os pés (não deixe entrar para dentro)\n- Descida controlada\n- Carga adequada\n\nSe a dor persistir, evite o treino hoje e procure um profissional. Segurança em primeiro lugar! 🛡️"
     },
 
-    # --- CATEGORIA: CONCEITOS E METODOLOGIA ---
+    # --- NUTRIÇÃO E HÁBITOS ---
     {
-        "pergunta": "Sou iniciante, qual a melhor divisão de treino para começar?",
-        "resposta": "Bem-vindo ao time! 🚀 Para começar, o ideal é o modelo **Full Body** (corpo todo) 3x por semana. Isso permite que seu corpo se adapte aos movimentos sem sobrecarregar um único músculo. Vamos focar na base! 🏛️"
+        "pergunta": "Qual a melhor hora para tomar Whey?",
+        "resposta": "O Whey é um facilitador! 🥤 O mais comum é no pós-treino, mas o mais importante é atingir sua meta diária de proteínas. Pode usar em qualquer horário estratégico. 🍗"
     },
     {
-        "pergunta": "Quanto tempo de descanso devo dar entre as séries?",
-        "resposta": "Depende do objetivo! ⏱️ Para hipertrofia básica, entre **60 a 90 segundos** é o ideal para recuperar o fôlego sem perder o ritmo. Respeite o descanso para manter a intensidade! 😴"
-    },
-
-    # --- CATEGORIA: FICHAS DE TREINO (INFERIORES) ---
-    {
-        "pergunta": "Pode montar um treino de inferiores com foco em quadríceps?",
-        "resposta": "Com certeza! Vamos focar na parte frontal das coxas. 🔥\n\n1️⃣ **Agachamento Livre:** 4x10\n2️⃣ **Leg Press 45°:** 3x12 (Pés baixos na plataforma)\n3️⃣ **Cadeira Extensora:** 4x15 (Pico de contração de 2s)\n4️⃣ **Afundo com Halteres:** 3x10 (Cada perna)\n\nDescanse 60s entre as séries. Bom treino! 💪"
-    },
-    {
-        "pergunta": "Quero um treino básico de glúteo e posterior.",
-        "resposta": "Preparado(a) para o pump? 🍑 Aqui está uma rotina matadora:\n\n1️⃣ **Stiff com Barra/Halter:** 4x12\n2️⃣ **Elevação Pélvica:** 4x10 (Segure 3s no topo)\n3️⃣ **Cadeira Flexora:** 3x15\n4️⃣ **Cadeira Abdutora:** 3x20\n\nFoco na execução, nada de pressa! ⚡"
+        "pergunta": "Quero emagrecer, devo focar em cardio ou musculação?",
+        "resposta": "Combine os dois! 🔥 A musculação ajuda a preservar massa muscular e o cardio aumenta o gasto calórico. O segredo está na constância! 💪"
     },
 
-    # --- CATEGORIA: FICHAS E DÚVIDAS (SUPERIORES) ---
+    # --- METODOLOGIA ---
     {
-        "pergunta": "Não estou sentindo muito meu peito na hora do supino, como posso resolver isso?",
-        "resposta": "Isso é comum! 🏛️ Primeiro, verifique a 'retratação escapular': junte as escápulas atrás e estufe o peito. Imagine que você quer 'entortar' a barra para fora. Isso isola mais o peitoral e tira a sobrecarga excessiva dos ombros e tríceps! 🔥"
+        "pergunta": "Sou iniciante, qual a melhor divisão de treino?",
+        "resposta": "Comece com Full Body 3x por semana! 🏛️ Isso permite adaptação do corpo e reduz risco de lesão. Foque na execução correta! 🚀"
     },
     {
-        "pergunta": "Pode montar um treino de costas com foco em largura (V-Taper)?",
-        "resposta": "Vamos expandir essa dorsal! 🦅\n\n1️⃣ **Puxada Aberta no Pulley:** 4x12\n2️⃣ **Remada Curvada com Barra:** 3x10 (Pegada supinada)\n3️⃣ **Pull-Down com Corda:** 3x15 (Foco em alongar bem)\n4️⃣ **Remada Baixa Triângulo:** 4x10\n\nSinta as escápulas se movimentarem, não puxe apenas com o bíceps! 👐"
+        "pergunta": "Quanto tempo devo descansar entre as séries?",
+        "resposta": "Para hipertrofia, entre 60 e 90 segundos é ideal ⏱️. Isso mantém a intensidade sem comprometer a recuperação. 😴"
+    },
+    {
+        "pergunta": "Posso treinar o mesmo músculo todo dia?",
+        "resposta": "Não é recomendado! ⚠️ O músculo precisa de descanso para crescer. Dê pelo menos 48 horas de recuperação. 🛌"
     },
 
-    # --- CATEGORIA: PROGRESSÃO EM MULTIARTICULADOS ---
+  # --- TREINO INFERIOR ---
     {
-        "pergunta": "Não consigo fazer nem uma repetição de Barra Fixa (Pull-up), o que eu faço?",
-        "resposta": "Ninguém começa do topo! 🪜 Para construir força, use estas progressões:\n\n1️⃣ **Puxada no Pulley:** Com carga alta para fortalecer a musculatura.\n2️⃣ **Barra Fixa Negativa:** Pule para o topo e desça o mais devagar que conseguir.\n3️⃣ **Barra com Elástico (Band):** Ajuda a vencer o peso inicial.\n\nPersista! A força de puxada é construída com consistência. 🦾"
+        "pergunta": "Monte um treino de quadríceps.",
+        "resposta": "Vamos lá! 🔥\n1️⃣ Agachamento Livre: 4x10\n2️⃣ Leg Press: 3x12\n3️⃣ Cadeira Extensora: 4x15\n4️⃣ Afundo: 3x10 cada perna\nDescanse 60s entre séries. 💪"
     },
     {
-        "pergunta": "Tenho medo de fazer Levantamento Terra e machucar a coluna.",
-        "resposta": "O medo vem da falta de técnica! 🛡️ Comece com o **Levantamento Terra com Halteres** ou o **Terra Sumô** (pés mais afastados), que mantém o peso mais próximo do seu centro de gravidade. Foque em 'empurrar o chão' com os pés em vez de 'puxar a barra' com as costas. Mantenha o abdômen sempre blindado! 🧱"
+        "pergunta": "Quero treino de glúteo e posterior.",
+        "resposta": "Bora! 🍑\n1️⃣ Stiff: 4x12\n2️⃣ Elevação pélvica: 4x10\n3️⃣ Flexora: 3x15\n4️⃣ Abdutora: 3x20\nFoco total na execução! ⚡"
+    },
+    {
+        "pergunta": "Não tem cadeira extensora, o que eu faço para quadríceps?",
+        "resposta": "Sem extensora? Sem problemas! 🛠️ O foco aqui é a **extensão isolada do joelho**.\nAs melhores alternativas são:\n1️⃣ **Sissy Squat (no banco ou livre):** O que mais isola o quadríceps sem usar máquinas.\n2️⃣ **Agachamento Búlgaro:** Foco total em uma perna por vez."
+    }, 
+
+    # --- TREINO SUPERIOR ---
+    {
+        "pergunta": "Não sinto o peito no supino.",
+        "resposta": "Ajuste a técnica! 🏛️ Retraia as escápulas, mantenha o peito firme e controle o movimento. Evite tirar a tensão do peitoral. 🔥"
+    },
+    {
+        "pergunta": "Monte um treino de costas com foco em largura.",
+        "resposta": "Expanda essa dorsal! 🦅\n1️⃣ Puxada aberta: 4x12\n2️⃣ Remada curvada: 3x10\n3️⃣ Pull-down: 3x15\n4️⃣ Remada baixa: 4x10\nEvite puxar só com os braços! 👐"
+    },
+
+    # --- PROGRESSÃO ---
+    {
+        "pergunta": "Não consigo fazer barra fixa.",
+        "resposta": "Use progressões! 🪜 Comece com pulley, barra negativa e elástico. Com consistência, você evolui! 🦾"
+    },
+    {
+        "pergunta": "Como evoluir no supino?",
+        "resposta": "Use progressão de carga! 📈 Aumente o peso gradualmente mantendo a execução perfeita. Técnica sempre primeiro! 💪"
+    },
+
+    # --- CASOS REAIS ---
+    {
+        "pergunta": "Não tenho tempo para treinar, o que faço?",
+        "resposta": "Treine com eficiência! ⏱️ Foque em exercícios compostos como agachamento, supino e remada. Treinos curtos funcionam! 🔥"
+    },
+    {
+        "pergunta": "É normal sentir dor depois do treino?",
+        "resposta": "Sim! 😄 É a dor muscular tardia. É normal, mas não deve ser incapacitante. Se for muito intensa, reduza a carga no próximo treino. ⚠️"
     }
 ]
