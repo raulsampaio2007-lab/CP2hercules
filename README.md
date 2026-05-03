@@ -65,3 +65,5 @@ Diferencial: O FitBot prioriza a interrupção imediata (segurança) e dá uma i
 * Integrante 3 *Raul Sampaio Mochnacs Arruda*: Aprendi como Modelos de chatbot  treinados funcionam melhor para objetivos específicos, como mostrado no projeto a diferença de respostas sobre musculação
   
 * Integrante 4 *Luan de Araujo Carneiro*: Consegui desenvolver mais com o aprendizado e o que a IA pode fazer e principalmente a configuração e a importancia do banco de dados e as valiosidade das informações dadas para melhor compreenssão da IA.
+
+* Integrante 5 *Lucas Garcia de Britto*: Aprendi como a personalização de um chatbot pode melhorar significativamente a qualidade das respostas em um meio específico, como a musculação. Tambem aprendi sobre a importancia de organizar os dados de forma eficiente para facilitar o treinamento do modelo.
